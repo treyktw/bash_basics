@@ -13,4 +13,4 @@ echo 'Your name was stored in $name'
 echo "Enter a filename:"
 read filename
 touch "$filename"
-echo "Created: $filename"
+echo "Successfully created the file: $filename"
